@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dan!
 
-I'm a Data Scientist and map geek who loves building Python frameworks and websites with a geospatial theme. I'm currently working for Ordnance Survey in their Rapid Prototyping Team, developing new products and services using OS data. 
+I'm a Data Scientist and map geek who loves building Python frameworks and websites with a geospatial theme. 
 
 #### Languages
 
