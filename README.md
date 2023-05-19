@@ -48,7 +48,3 @@ I'm a Data Scientist and map geek who loves building Python frameworks and websi
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-
-#### Stats
-
-[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dchirst)](https://github.com/dchirst/github-readme-stats)
